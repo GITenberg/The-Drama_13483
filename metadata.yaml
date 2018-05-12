@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36822'
     url: http://www.gutenberg.org/2009/agents/36822
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13483#The-Drama
 gutenberg_issued: '2004-09-17'
 gutenberg_type: Text
 identifiers:
